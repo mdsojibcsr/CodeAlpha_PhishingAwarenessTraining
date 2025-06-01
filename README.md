@@ -14,7 +14,7 @@ Welcome to the **Phishing Awareness Training** module. This training is designed
 ## How to Use This Training
 
 1. **Download the PDF**  
-   Click on the `Phishing_Awareness_Training.pdf` file in this repository to view or download the full training module.
+   [Click here to view or download the training module](./CodeAlpha_Phishing%20Awareness.pdf)
 
 2. **Read Through the Material**  
    Carefully read through the PDF. Pay attention to the real-world examples and actionable tips for spotting phishing attempts.
