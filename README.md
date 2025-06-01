@@ -1,68 +1,52 @@
 # Phishing Awareness Training
 
-A simple educational project to raise awareness about phishing attacks and how to stay protected.
-
-## Introduction
-
-Phishing is a cyberattack that uses fake messages or websites to trick users into revealing sensitive information like passwords, credit card details, or personal data. It often appears to come from trusted sources and is commonly used in online scams and frauds.
+Welcome to the **Phishing Awareness Training** module. This training is designed to educate individuals on recognizing and avoiding phishing emails, fake websites, and social engineering tactics. By the end of this training, you will have a solid understanding of the different types of phishing attacks and how to protect yourself against them.
 
 ---
 
-## Common Types of Phishing Attacks
+## Contents
 
-### 1. Email Phishing
-Fake emails designed to look legitimate, asking users to click on malicious links or enter login credentials.
-
-### 2. Website Phishing
-Cloned websites that mimic real ones to collect users' sensitive data like passwords and credit card numbers.
-
-### 3. SMS Phishing (Smishing)
-Fraudulent text messages that include malicious links or requests for personal info.
-
-### 4. Voice Phishing (Vishing)
-Phone calls pretending to be from banks, police, or companies trying to steal your data using social manipulation.
+- **Phishing Awareness Training PDF**  
+  This PDF contains the full training module with detailed information and tips on how to identify and avoid phishing attacks.
 
 ---
 
-## Scenario of a Social Engineering Attack
+## How to Use This Training
 
-Social engineering involves manipulating people into performing actions or disclosing confidential information. Phishing is a common social engineering technique where attackers exploit human trust to gain access.
+1. **Download the PDF**  
+   Click on the `Phishing_Awareness_Training.pdf` file in this repository to view or download the full training module.
 
----
+2. **Read Through the Material**  
+   Carefully read through the PDF. Pay attention to the real-world examples and actionable tips for spotting phishing attempts.
 
-## Detecting Phishing Attempts
-
-- Check the sender’s email address carefully.
-- Look for spelling and grammar mistakes.
-- Beware of urgent or threatening messages.
-- Verify URLs before logging in.
-- Avoid unexpected attachments.
+3. **Share the Knowledge**  
+   Feel free to share this training with colleagues, friends, and family. Help others stay informed and safe from online threats.
 
 ---
 
-## Safety Protocols to Avoid Phishing
+## Key Topics Covered
 
-- Don’t click on suspicious links or attachments.
-- Always verify the sender’s identity.
-- Use strong, unique passwords for different sites.
-- Enable Two-Factor Authentication (2FA).
-- Keep your software and antivirus updated.
-- Double-check website URLs before entering any information.
+- What is Phishing?
+- Email Phishing
+- Website Phishing
+- SMS Phishing (Smishing)
+- Voice Phishing (Vishing)
+- Social Engineering Scenarios
+- How to Detect Phishing Attempts
+- Safety Protocols to Avoid Phishing
+- Real-World Warnings and Examples
 
 ---
 
 ## Conclusion
 
-> **Be Aware. Be Alert. Be Safe.**
+**Be Aware. Be Alert. Be Safe.**
 
-This project was created for educational purposes by:
-
-**MD SOJIB**  
-**Student ID: CA/JU1/5206**
+Stay vigilant and always think twice before clicking suspicious links or sharing sensitive information online.
 
 ---
 
 ## Author
 
-This training module was created by **MD SOJIB**. For more information, visit my [GitHub Profile](https://github.com/mdsojibcsr).
-
+This training module was created by **MD SOJIB**
+For more information, visit my [GitHub Profile](https://github.com/mdsojibcsr).
